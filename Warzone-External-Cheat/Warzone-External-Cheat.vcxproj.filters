@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Kaynak Dosyalar">
+      <UniqueIdentifier>{0C3C6E33-F96C-4AE4-BA9F-BBF4804C091E}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları">
+      <UniqueIdentifier>{F9F7A4F7-79C6-4C2E-A1B7-D09C5F555410}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları">
+      <UniqueIdentifier>{8AA356C8-086B-4271-8EE9-D306231A4193}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="base64.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="bazhar.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="comm.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="hijack.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Esp Driver\main.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Esp Driver\overlay.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\aimassist.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\apexbot.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\cheats.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\config.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\context.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\entities.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\highlight.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\items.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\process.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\scripts.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\solver.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\state.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot Slient\stdafx.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="base64.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="comm.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="downloaditems.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="hijack.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="imports.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="paste.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="shit.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Esp Driver\driver.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Esp Driver\game.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Esp Driver\overlay.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Esp Driver\player.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Esp Driver\sdk.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Esp Driver\vectors.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Esp Driver\xor.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\aimassist.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\cheats.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\config.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\context.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\data.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\entities.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\hash.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\highlight.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\items.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\pid.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\process.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\scripts.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\sdk.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\solver.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot Slient\state.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Esp Driver\ss.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
