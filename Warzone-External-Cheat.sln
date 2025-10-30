@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{828E8B1B-A1BD-4069-9C4E-4FA7897511EE}") = "Warzone-External-Cheat", "Warzone-External-Cheat\Warzone-External-Cheat.vcxproj", "{3929F7D7-2CA9-4548-8F65-60E64F88B871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3929F7D7-2CA9-4548-8F65-60E64F88B871}.Debug|x64.ActiveCfg = Debug|x64
+		{3929F7D7-2CA9-4548-8F65-60E64F88B871}.Debug|x64.Build.0 = Debug|x64
+		{3929F7D7-2CA9-4548-8F65-60E64F88B871}.Debug|x86.ActiveCfg = Debug|Win32
+		{3929F7D7-2CA9-4548-8F65-60E64F88B871}.Debug|x86.Build.0 = Debug|Win32
+		{3929F7D7-2CA9-4548-8F65-60E64F88B871}.Release|x64.ActiveCfg = Release|x64
+		{3929F7D7-2CA9-4548-8F65-60E64F88B871}.Release|x64.Build.0 = Release|x64
+		{3929F7D7-2CA9-4548-8F65-60E64F88B871}.Release|x86.ActiveCfg = Release|Win32
+		{3929F7D7-2CA9-4548-8F65-60E64F88B871}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8832BE33-B17C-4370-B823-138BA0DAAD2E}
+	EndGlobalSection
+EndGlobal
